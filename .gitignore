@@ -1,0 +1,16 @@
+# Ignore Obsidian's internal config and plugin settings
+.obsidian/
+!.obsidian/themes/    # If you want to keep themes (optional)
+!.obsidian/snippets/  # If you want to keep custom CSS snippets (optional)
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore workspace-specific files (like cursor position, open panes, etc.)
+.obsidian/workspace
+
+# Ignore attachments in other folders (optional)
+attachments/
+files/
+
