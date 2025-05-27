@@ -1,3 +1,7 @@
+# Ignore workspace-specific files
+.obsidian/workspace.json
+.obsidian/graphs.json
+
 # Ignore Obsidian's internal config and plugin settings
 .obsidian/
 !.obsidian/themes/    # If you want to keep themes (optional)
