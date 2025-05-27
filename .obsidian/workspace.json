@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "d0fd38914bd0eab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "606fe935a8f7fc3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d9e3a99802b0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. Find the Index of the First Occurrence in a String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28. Find the Index of the First Occurrence in a String"
+            }
+          },
+          {
+            "id": "dcc2e2a37b28feba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "36. Valid Sudoku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "36. Valid Sudoku"
+            }
+          },
+          {
+            "id": "418ab81a9e1753f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "58. Length of Last Word.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58. Length of Last Word"
+            }
+          },
+          {
+            "id": "674ad2f164145cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "66. Plus One.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "66. Plus One"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "477541f0eceed892",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d94ab20fe58aac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a76c1572c4f17a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffce494e8bb67e6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73b984339cfcb7e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "d684b01b049f9f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "296017aa55647b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b98840477cabdda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difficulty/Easy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Easy"
+            }
+          },
+          {
+            "id": "6d9247d077597c22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "036aa70e898e6c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe040d65d5b48d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b83008c0ec48e795",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f320aab962132db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8240565180e78cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d9247d077597c22",
+  "lastOpenFiles": [
+    "66. Plus One.md",
+    "imgs/Pasted image 20250527132817.png",
+    "58. Length of Last Word.md",
+    "imgs/Pasted image 20250527115049.png",
+    "36. Valid Sudoku.md",
+    "35. Search Insert Position.md",
+    "15. 3Sum.md",
+    "-1,-1,2],[-1,0,1.md",
+    "imgs/Pasted image 20250527113844.png",
+    "28. Find the Index of the First Occurrence in a String.md",
+    "imgs/Pasted image 20250527113141.png",
+    "875. Koko Eating Bananas.md",
+    "14. Longest Common Prefix.md",
+    "21. Merge Two Sorted Lists.md",
+    "27. Remove Element.md",
+    "imgs/Pasted image 20250526231026.png",
+    "26. Remove Duplicates from Sorted Array.md",
+    "imgs/Pasted image 20250526225333.png",
+    "imgs/Pasted image 20250526225209.png",
+    "imgs/Pasted image 20250526220438.png",
+    "imgs/Pasted image 20250526214509.png",
+    "Tags/Trie.md",
+    "153. Find Minimum in Rotated Sorted Array.md",
+    "imgs/Pasted image 20250526185054.png",
+    "Tags/Array.md",
+    "74. Search a 2D Matrix.md",
+    "682. Baseball Game.md",
+    "347. Top K Frequent Elements.md",
+    "22. Generate Parentheses.md",
+    "Tags/HashTable.md",
+    "167. Two Sum II - Input Array Is Sorted.md",
+    "Tags/Stack.md",
+    "Tags/String.md",
+    "704. Binary Search.md",
+    "125. Valid Palindrome.md",
+    "Difficulty",
+    "imgs",
+    "Tags"
+  ]
+}
